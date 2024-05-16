@@ -4,7 +4,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 # Hardhat Fund Me
 
-*This repo has been updated to work with Sepolia Testnet over Goerli.*
+*This repo has been updated to work with Sepolia Testnet (over Goerli).*
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course.
 
