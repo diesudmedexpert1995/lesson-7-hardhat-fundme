@@ -187,5 +187,5 @@ ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
 # lesson-7-hardhat-fundme
 
 
-#UPD May 19 2024
+# UPD May 19 2024
 Some of the code in original course is outdated. In course, the version of the ethers is 5.5(??) - in this repository the version is 6.
